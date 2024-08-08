@@ -1,0 +1,12 @@
+{
+  "name": "y-webrtc-signalling-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "akrv7591@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "lib0": "^0.2.96",
+    "ws": "^8.18.0"
+  }
+}
